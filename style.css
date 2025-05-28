@@ -89,7 +89,7 @@ body{
   color: var(--cinza-secundario)
 }
 
-.secundario_botap{
+.secundario_botao{
   display: inline-block;
   margin-top: 1em;
 }
